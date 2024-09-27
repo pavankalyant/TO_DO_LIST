@@ -3,9 +3,6 @@
 
 # To Do List
 
-![ToDoList](https://github.com/pavankalyant/TO_DO_LIST)
-
-
 ### *Features*:
 
 * User-friendly
